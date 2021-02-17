@@ -1,1 +1,1 @@
-Sitemap: http://blog.iecoxe.top/sitemap.xml
+Sitemap: http://blog.iecoxe.top/sitemap.txt
